@@ -15,4 +15,6 @@ Estou escrevendo meu código no Visual Studio Code (no próprio computador) ou n
       [A primeira vez precisei add a chave SSH do meu computador no GitHub]
 - Para salvar alterações feitas no Visual Studio no git:
       - Go to the directory you want to work on (click on it on the explorer or digit "cd + FolderName"
-      - Digita git status (para ver mudanças que foram feitas no Visual Code: pode se4r a criancao de um novo directory ou alteracao dentro de um) --> Digita git add . (para add todas as mudanças feitas no gitHub) ou git NomeDoNovoDirectory 
+      - Digita git status (para ver mudanças que foram feitas no Visual Code: pode se4r a criancao de um novo directory ou alteracao dentro de um) --> Digita git add . (para add todas as mudanças feitas no gitHub) ou git NomeDoNovoDirectory
+      - Digita git commit -m "...Observação/Mudança feita..." para dizer qual foi a mudanca
+      - Escreve git push para levar as mudanças para o gitHub
